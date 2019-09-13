@@ -1193,6 +1193,28 @@ footer p {
   width: 100%;
 }
 
+.attributes {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-flow: row nowrap;
+  color: #9FD9E8;
+  font-size: 0.5rem;
+  text-align: center;
+  width: 100%;
+}
+
+.attributes p {
+  width: 50%;
+}
+
+.attributes a {
+  color: #9FD9E8;
+  text-decoration: none;
+  width: 100%;
+}
+
+
 
  /* ==========================================================================
    Helper classes

@@ -10,7 +10,6 @@ $(window).scroll(function(){
 		
     	$('#scroll-nav').fadeIn(200);
 	
-
 	} else if (winY < 900) {
 
       $('#scroll-nav').fadeOut(200);
